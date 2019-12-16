@@ -3,4 +3,4 @@ Assignments del Laboratorio di Programmazione Sistema dell'A.A. 2015/16, tenuto 
 
 Homepage del corso: http://didawiki.cli.di.unipi.it/doku.php/informatica/sol/laboratorio16
 
-Attenzione: la raccolta è incompleta e alcuni esercizi possono non essere bug-free!
+Attenzione: la raccolta è incompleta e alcuni esercizi possono non essere bug-free! 
